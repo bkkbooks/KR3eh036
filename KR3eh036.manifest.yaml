@@ -1,0 +1,287 @@
+canonical_identifier: bkk:krp/KR3eh036/v1
+canonical_location: https://kanripo.org/bkk/KR3eh036/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 何氏虛勞心傳
+  identifiers:
+    krp: KR3eh036
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh036.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh036_000.yaml, hash: 'sha256:6bb68ffdd6ca4ade7e72acfbcb1cc57f15024355fc36f8f6deced29f871b08b6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh036_000.markers.yaml, hash: 'sha256:5896e82d45322048a893d109f70fd32ccc96d971ec1a1ad6f9c3c6cfe0cf9d41'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 3171
+  label: 虛勞總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d3.h1s1
+    span:
+    - body
+    - 3171
+    - 3314
+  label: 脈法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d4.h1s1
+    span:
+    - body
+    - 3314
+    - 3940
+  label: 死候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5.h1s1
+    span:
+    - body
+    - 3940
+    - 20856
+  label: 選方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d2
+    span:
+    - body
+    - 3942
+    - 4582
+  label: 保陰煎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d3
+    span:
+    - body
+    - 4582
+    - 6687
+  label: 六味地黃丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d4
+    span:
+    - body
+    - 6687
+    - 7093
+  label: 左歸丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d5
+    span:
+    - body
+    - 7093
+    - 7280
+  label: 左歸飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d6
+    span:
+    - body
+    - 7280
+    - 7968
+  label: 回生丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d7
+    span:
+    - body
+    - 7968
+    - 8232
+  label: 清金散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d8
+    span:
+    - body
+    - 8232
+    - 8893
+  label: 加味清寧膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d9
+    span:
+    - body
+    - 8893
+    - 9240
+  label: 噙化丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d10
+    span:
+    - body
+    - 9240
+    - 9975
+  label: 天王補心丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d11
+    span:
+    - body
+    - 9975
+    - 11722
+  label: 歸脾湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d12
+    span:
+    - body
+    - 11722
+    - 12790
+  label: 逍遙散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d13
+    span:
+    - body
+    - 12790
+    - 14378
+  label: 仲淳驗方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d14
+    span:
+    - body
+    - 14378
+    - 14484
+  label: 乳金丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d15
+    span:
+    - body
+    - 14484
+    - 14602
+  label: 坤髓膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d16
+    span:
+    - body
+    - 14602
+    - 14776
+  label: 白鳳膏自制
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d17
+    span:
+    - body
+    - 14776
+    - 14988
+  label: 四聖丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d18
+    span:
+    - body
+    - 14988
+    - 15181
+  label: 衛生膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d19
+    span:
+    - body
+    - 15181
+    - 15518
+  label: 資生丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d20
+    span:
+    - body
+    - 15518
+    - 16256
+  label: 大黃䗪蟲丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d21
+    span:
+    - body
+    - 16256
+    - 16671
+  label: 獺肝散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d22
+    span:
+    - body
+    - 16671
+    - 17350
+  label: 長春廣嗣丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh036_jc_000-d5d23
+    span:
+    - body
+    - 17350
+    - 20856
+  label: 治驗
+  type: section
+  level: 2
+hash: sha256:af9707bd3be55f427c64158099110966706737d6ca2454a86d29a50732c04ace
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
